@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-Hi 👋, I'm Paul! A passionate Data Science student from Brazil.
+Hello 👋, my name is Paulo!  I am a software development and Data Science enthusiast! I'm always ready to dive into new challenges and explore the wonders of the world of technology.
 
   - 🌱 I'm currently studying Data Science at EBAC and Software Engineering at UNOPAR. <img align="center" alt="" src="#" />
 
