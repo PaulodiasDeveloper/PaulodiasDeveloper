@@ -17,9 +17,9 @@ Hello 👋, my name is Paulo!  I am a software development and Data Science enth
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I have been seeking opportunities to enrich my knowledge as a student interested in becoming a software developer and data scientist. I always aim to carry out practical projects with real datasets, participate in data science competitions to challenge myself and gain recognition, collaborate on open-source projects to develop technical skills and build a public portfolio, pursue certifications to validate my knowledge, engage in events and study groups for networking and staying updated with the latest trends in data science. Additionally, I am working on developing communication skills to explain complex results clearly, and I am continuously learning to remain relevant in the field.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading, whether it's a good book, watching movies, and playing games! I believe our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
