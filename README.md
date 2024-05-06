@@ -36,6 +36,7 @@ Hello 👋, my name is Paulo!  I am a software development and Data Science enth
 <!-- Portfolio -->
 ## Portfolio:
 - [CRUD PHP - Agenda](https://github.com/PaulodiasDeveloper/agenda_php)
+- [Atividade de aula prática Programação - CRUD Gerenciamento de Usuários](https://github.com/PaulodiasDeveloper/CRUD_Ger_Usuarios/blob/master/README.md)
 - [Google Data Studio - COVID-19 Interactive Dashboard]()
 - [SQL - Querying and analyzing data with AWS Athena]()
 - [C - Registration and query system]()
