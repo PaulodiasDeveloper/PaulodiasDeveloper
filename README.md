@@ -31,6 +31,8 @@ Hello 👋, my name is Paulo!  I am a software development and Data Science enth
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulodiasDeveloper&show_icons=true&theme=gotham)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulodiasDeveloper&langs_count=8&show_icons=true&theme=gotham )
+
 - [My first Github](https://github.com/Paulodiastst)
 
 <!-- Portfolio -->
