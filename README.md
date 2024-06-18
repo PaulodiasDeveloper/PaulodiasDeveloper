@@ -37,7 +37,7 @@ Hello 👋, my name is Paul!  I am a software development and Data Science enthu
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Curso Ciência de dadps - EBAC](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados)
+- [Curso Ciência de dados - EBAC](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados)
 - [CRUD PHP - Agenda](https://github.com/PaulodiasDeveloper/agenda_php)
 - [Atividade de aula prática Programação - CRUD Gerenciamento de Usuários](https://github.com/PaulodiasDeveloper/CRUD_Ger_Usuarios/blob/master/README.md)
 - [Google Data Studio - COVID-19 Interactive Dashboard]()
