@@ -6,11 +6,14 @@
 
 <!-- Presentation -->
 <p>
-Hello 👋, my name is Paul!  I am a software development and Data Science enthusiast! I'm always ready to dive into new challenges and explore the wonders of the world of technology.
+Hello 👋, my name is Paul! 
+  Sou formado em Engenharia de Software, atualmente cursando pós-graduação em Ciência de Dados e graduação em Estatística. Tenho uma trajetória voltada para o desenvolvimento de soluções tecnológicas, com foco em automação, análise de dados e integração de sistemas.
 
-  - 🌱 I'm currently studying Data Science at EBAC and Software Engineering at UNOPAR. <img align="center" alt="" src="#" />
+Tenho experiência prática na criação e consumo de APIs REST, além de atuar com diversas bibliotecas Python como pandas, numpy, requests, flask, fastapi, matplotlib, seaborn e plotly, entre outras. Também desenvolvo interfaces gráficas utilizando Tkinter e Flet, entregando aplicações interativas e funcionais de forma rápida e eficiente.
 
-  - 🔭  I'm looking for my first job opportunity in the IT area. My dream is to one day work as a developer or data scientist.
+Além disso, trabalho com ferramentas da Microsoft, como Power BI, Power Apps e Power Automate, integrando soluções de BI e automatizando processos corporativos. Tenho familiaridade com bancos de dados relacionais e não relacionais, além de vivência com SAP, BW e ambientes em nuvem.
+
+Acredito que posso contribuir de forma significativa com a empresa no desafio proposto, trazendo um perfil técnico sólido, visão analítica e foco em soluções escaláveis e sustentáveis. Tenho facilidade para colaborar com equipes multidisciplinares e sou movido pela busca contínua por melhorias e inovação.
 </p>
 
 <!-- Dropdown -->
