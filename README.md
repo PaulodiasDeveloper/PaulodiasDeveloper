@@ -1,4 +1,3 @@
-<!-- Presentation -->
 <p>
 Olá sou Paulo Roberto
 </p>
