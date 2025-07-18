@@ -6,8 +6,10 @@
 
 <!-- Presentation -->
 <p>
-Hello 👋, my name is Paul! 
-  Sou formado em Engenharia de Software, atualmente cursando pós-graduação em Ciência de Dados e graduação em Estatística. Tenho uma trajetória voltada para o desenvolvimento de soluções tecnológicas, com foco em automação, análise de dados e integração de sistemas.
+Hello 👋, my name is Paul!
+</p>
+  
+ <p> Sou formado em Engenharia de Software, atualmente cursando pós-graduação em Ciência de Dados e graduação em Estatística. Tenho uma trajetória voltada para o desenvolvimento de soluções tecnológicas, com foco em automação, análise de dados e integração de sistemas.
 
 Tenho experiência prática na criação e consumo de APIs REST, além de atuar com diversas bibliotecas Python como pandas, numpy, requests, flask, fastapi, matplotlib, seaborn e plotly, entre outras. Também desenvolvo interfaces gráficas utilizando Tkinter e Flet, entregando aplicações interativas e funcionais de forma rápida e eficiente.
 
