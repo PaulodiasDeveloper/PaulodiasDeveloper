@@ -1,6 +1,6 @@
 <!-- Presentation -->
 <p>
-Hello 👋, my name is Paul!
+Olá sou Paulo Roberto
 </p>
   
  <p> Sou formado em Engenharia de Software, atualmente cursando pós-graduação em Ciência de Dados e graduação em Estatística. Tenho uma trajetória voltada para o desenvolvimento de soluções tecnológicas, com foco em automação, análise de dados e integração de sistemas.
